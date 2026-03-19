@@ -27,7 +27,7 @@ O projeto segue uma estrutura de classes interligadas para garantir a organizaç
 ## 💻 Como Executar
 
 1.  **Pré-requisitos:** Ter o [.NET SDK](https://dotnet.microsoft.com/download) instalado.
-2.  **Clonar:** `git clone [https://github.com/seu-usuario/sistema-hospedagem.git](https://github.com/seu-usuario/sistema-hospedagem.git)`
+2.  **Clonar:** `git clone https://github.com/EsmeraldoCarneiro/Inicio-Sistema-de-Hospedagem.git`
 3.  **Executar:** Navegue até a pasta e digite `dotnet run`.
 
 ## 🛠️ Possíveis Melhorias (Roadmap)
