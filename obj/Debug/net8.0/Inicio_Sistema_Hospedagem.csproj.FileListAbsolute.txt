@@ -1,0 +1,15 @@
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\bin\Debug\net8.0\Inicio_Sistema_Hospedagem.exe
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\bin\Debug\net8.0\Inicio_Sistema_Hospedagem.deps.json
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\bin\Debug\net8.0\Inicio_Sistema_Hospedagem.runtimeconfig.json
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\bin\Debug\net8.0\Inicio_Sistema_Hospedagem.dll
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\bin\Debug\net8.0\Inicio_Sistema_Hospedagem.pdb
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\obj\Debug\net8.0\Inicio_Sistema_Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\obj\Debug\net8.0\Inicio_Sistema_Hospedagem.AssemblyInfoInputs.cache
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\obj\Debug\net8.0\Inicio_Sistema_Hospedagem.AssemblyInfo.cs
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\obj\Debug\net8.0\Inicio_Sistema_Hospedagem.csproj.CoreCompileInputs.cache
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\obj\Debug\net8.0\Inicio_Sistema_Hospedagem.sourcelink.json
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\obj\Debug\net8.0\Inicio_Sistema_Hospedagem.dll
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\obj\Debug\net8.0\refint\Inicio_Sistema_Hospedagem.dll
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\obj\Debug\net8.0\Inicio_Sistema_Hospedagem.pdb
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\obj\Debug\net8.0\Inicio_Sistema_Hospedagem.genruntimeconfig.cache
+D:\Esmeraldo Junior\projetos-dio\Cod GitHub\Inicio_Sistema_Hospedagem\obj\Debug\net8.0\ref\Inicio_Sistema_Hospedagem.dll
